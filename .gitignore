@@ -40,4 +40,4 @@ yarn-debug.log*
 config/credentials.yml.enc
 config/database.yml
 /test/
-
+.browserslistrc
