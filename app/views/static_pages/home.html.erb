@@ -1,0 +1,11 @@
+<% provide :title, t("static_pages.home.home") %>
+<div class="center jumbotron">
+  <h1><%= t("static_pages.home.welcome") %></h1>
+  <h2>
+    <%= t("static_pages.home.this_home") %>
+    <%= link_to t("static_pages.home.sample_application"), "http://www.railstutorial.org/" %>
+    <%= t("static_pages.home.ruby_on_rails")%>
+  </h2>
+  <%= link_to t("static_pages.home.sign_up"), '#', class: "btn btn-lg btn-primary" %>
+</div>
+<%=render "layouts/contact_about" %>

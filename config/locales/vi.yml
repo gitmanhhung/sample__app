@@ -1,0 +1,22 @@
+vi:
+  english: "Tiếng Anh"
+  vietnamese: "Tiếng Việt"
+  title_page: "Hướng dẫn ứng dụng Ruby on Rails cơ bản"
+  static_pages:
+    sample_app: "ứng dụng mẫu"
+    home:
+      home: "trang chủ"
+      help: "trợ giúp"
+      log_in: "đăng nhập"
+      about: "Về chúng tôi"
+      contact: "liên hệ"
+      news: "tin tức"
+      welcome: "Chào mừng bạn đến với ứng dụng mẫu"
+      this_home: "Đây là trang chủ của"
+      ruby_on_rails: "Hướng dẫn sử dụng Ruby on Rails"
+      sample_application: "ứng dụng mẫu."
+      sign_up: "Đăng ký ngay!"
+      get_help: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      help_page: "trang trợ giúp Hướng dẫn về Rails ."
+      to_get: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+      sample_book: "Sách Hướng dẫn Ruby on Rails."
