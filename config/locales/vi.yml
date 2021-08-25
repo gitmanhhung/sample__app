@@ -1,4 +1,5 @@
 vi:
+  users_nil: "không tìm thấy"
   english: "Tiếng Anh"
   vietnamese: "Tiếng Việt"
   title_page: "Hướng dẫn ứng dụng Ruby on Rails cơ bản"
@@ -20,3 +21,12 @@ vi:
       help_page: "trang trợ giúp Hướng dẫn về Rails ."
       to_get: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
       sample_book: "Sách Hướng dẫn Ruby on Rails."
+  user:
+    new:
+      sign_up: "Đăng kí"
+      create_my_account: "Tạo tài khoản"
+      confirmation: "Nhập lại mật khẩu"
+      password: "Mật khẩu"
+      name: "tên"
+      the_form_contains: "Biểu mẫu chứa"
+      error: "lỗi"
