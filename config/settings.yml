@@ -1,0 +1,6 @@
+enabled_locales: ["en", "vi"]
+client:
+  host: "localhost:3000"
+validate:
+  email_max: 80
+  name_max: 50
