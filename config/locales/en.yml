@@ -30,3 +30,8 @@ en:
       name: "Name"
       the_form_contains: "the form contains"
       error: "error"
+      new_user: "new user?"
+      sign_up_now: "sign up now!"
+      users: "Users"
+      Profile: "Profile"
+      Settings: "Settings"
