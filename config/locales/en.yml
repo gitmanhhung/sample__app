@@ -1,4 +1,6 @@
 en:
+  remember_me: "Remember me on this computer"
+  invalid_email_password_combination: "invalid email password combination"
   english: "English"
   users_nil: "not found"
   vietnamese: "Vietnamese"
@@ -35,3 +37,4 @@ en:
       users: "Users"
       Profile: "Profile"
       Settings: "Settings"
+      log_in: "log in"
