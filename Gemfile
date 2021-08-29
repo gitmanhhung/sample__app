@@ -20,6 +20,10 @@ gem "rails-i18n"
 gem "config"
 
 gem "bcrypt"
+gem "faker", "2.1.2"
+gem "kaminari"
+
+gem "bootstrap-kaminari-views"
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
