@@ -4,3 +4,4 @@ client:
 validate:
   email_max: 80
   name_max: 50
+pass_reset_expired: 2
