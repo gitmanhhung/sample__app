@@ -38,3 +38,9 @@ en:
       Profile: "Profile"
       Settings: "Settings"
       log_in: "log in"
+  account_activations:
+    edit:
+      account_activated: "Account activated"
+      invalid_activation_link: "Invalid activation link"
+      account_not_activated: "Account not activated.Check your email for the activation link."
+      wl_click: "Welcome to the Sample App! Click on the link below to activate your account"
