@@ -28,7 +28,7 @@ class UsersController < ApplicationController
 
   def update
     if @user.update user_params
-      flash[:success] = t "Profile_updated"
+      flash[:success] = t("user.new.profile_updated")
       redirect_to @user
     else
       render :edit
@@ -37,9 +37,9 @@ class UsersController < ApplicationController
 
   def destroy
     if @user.destroy
-      flash[:success] = t "User_deleted"
+      flash[:success] = t("user.new.user_deleted")
     else
-      flash[:danger] = t "Delete_fail!"
+      flash[:danger] = t("user.new.delete_fail")
     end
     redirect_to users_path
   end
@@ -55,7 +55,7 @@ class UsersController < ApplicationController
     return if logged_in?
 
     store_location
-    flash[:danger] = t "Please_log_in."
+    flash[:danger] = t("user.new.please_log_in")
     redirect_to login_url
   end
 
